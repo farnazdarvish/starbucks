@@ -14,8 +14,6 @@
 
 - Technologies Used - Html , css 
 
-- Hooks Used : useState 
-
 - Role - Frontend
 
 - How to reach me : with my [linkedin](https://www.linkedin.com/in/farnaz-darvish-540608216/)
