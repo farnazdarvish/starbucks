@@ -364,6 +364,7 @@
 .end {
   > ul {
     > li {
+      width: 20%;
       line-height: 50px;
       margin-left: 30px;
       transition: 0.4s;
