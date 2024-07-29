@@ -1,4 +1,4 @@
-# Accordion-Menu-By-React
+# starbucks
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
@@ -8,14 +8,14 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by pouria farahani
+- Coded by Farnaz Darvish
 
-- Created - 2022-11-26
+- Created - 2024-07-29
 
-- Technologies Used - Html , css , js , React.js
+- Technologies Used - Html , css 
 
 - Hooks Used : useState 
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [linkedin](https://www.linkedin.com/in/farnaz-darvish-540608216/)
